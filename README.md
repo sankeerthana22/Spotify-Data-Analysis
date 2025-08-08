@@ -84,8 +84,3 @@ The Spotify Dashboard offers a comprehensive overview of streaming trends, artis
 4. The preferences for high-energy and danceable tracks, which align with user demand for lively and dynamic music experiences.
 5. A detailed breakdown of track releases over time, highlighting industry patterns and production peaks.
 
-## Connect with Me
-
-Feel free to connect with me on LinkedIn: [Shreyash Supe](https://www.linkedin.com/in/shreyashsupe/)
-
-You can also reach me via email at: [shreyashsupe11@gmail.com](mailto:shreyashsupe11@gmail.com)
